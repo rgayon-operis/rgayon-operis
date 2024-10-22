@@ -6,7 +6,7 @@
 - 👩‍💻 DevOps Gal
 - 🗣️ French, English, Spanish
 
-I only use Windows because of work. I'd rather have fun with Xenia. I write a whole lot of yaml (And some actual code whenever I can).
+I only use Windows because of work. I'd rather have fun with Xenia. I write a whole lot of yaml (And some actual code whenever I can). I GPG-Sign my commits.
 
 I would write an [H-Card](https://microformats.org/wiki/h-card) somewhere, but I'm not there just yet.
 
