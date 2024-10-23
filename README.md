@@ -7,7 +7,9 @@
 - 🗣️ French, English, Spanish
 
 *Thought processes:*
-I only use Windows because of work. I'd rather have fun with Xenia. I write a whole lot of yaml (And some actual code whenever I can). I GPG-Sign my commits. I wish the internet was more interoperable. Working pretty much exclusively on WSL. The GitHub CLI is actually awesome, y'all just haters. All views and statements are my own.
+I only use Windows because of work. I'd rather have fun with Xenia. I write a whole lot of yaml (And some actual code whenever I can). I GPG-Sign my commits. I wish the internet was more interoperable. Working pretty much exclusively on WSL. Why is Jira ? The GitHub CLI is actually awesome, y'all just haters. No, seriously, why the hell is Jira ? And how have they been working on this for over twenty years ?!
+
+All views and statements are my own.
 
 I would write an [H-Card](https://microformats.org/wiki/h-card) somewhere, but I'm not there just yet.
 
