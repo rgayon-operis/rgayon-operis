@@ -2,6 +2,7 @@
 *Here's a bit about me:*
 - 👋 Rafael Gayon
 - 👩 She / Her / Elle
+- 🏢 Operis
 - 📍 Nantes, France
 - 👩‍💻 DevOps Gal
 - 🗣️ French, English, Spanish
