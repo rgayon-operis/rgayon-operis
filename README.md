@@ -6,8 +6,7 @@
 - 👩‍💻 DevOps Gal
 - 🗣️ French, English, Spanish
 
-*Thought processes:*
-I only use Windows because of work. I'd rather have fun with Xenia. I write a whole lot of yaml (And some actual code whenever I can). I GPG-Sign my commits. I wish the internet was more interoperable. Working pretty much exclusively on WSL. Why is Jira ? The GitHub CLI is actually awesome, y'all just haters. No, seriously, why the hell is Jira ? And how have they been working on this for over twenty years ?! I have a love-hate relationship with GitHub, and it's not what you think.
+*Stream of consciousness:* I only use Windows because of work. I'd rather have fun with Xenia. I write a whole lot of yaml (And some actual code whenever I can). I GPG-Sign my commits. I wish the internet was more interoperable. Working pretty much exclusively on WSL. Why is Jira ? The GitHub CLI is actually awesome, y'all just haters. No, seriously, why the hell is Jira ? And how have they been working on this for over twenty years ?! I have a love-hate relationship with GitHub, and it's not what you think.
 
 All views and statements are my own.
 
