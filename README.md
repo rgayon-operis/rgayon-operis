@@ -25,3 +25,4 @@ Here is a list of my different configurations:
 Blahaj is a soft toy shark plushie sold by IKEA (not sponsored, I just really like them). I hope you can find some solace in knowing they exist. I have a couple myself, and I love them very much.
 
 ![Shark!](https://github.com/rgayon-operis/rgayon-operis/blob/main/blahaj.png?raw=true)
+*(Blahaj © IKEA)*
