@@ -12,6 +12,14 @@ All views and statements are my own.
 
 I would write an [H-Card](https://microformats.org/wiki/h-card) somewhere, but I'm not there just yet.
 
+# Configuration and dotfiles.
+Here is a list of my different configurations:
+- [Ansible](https://github.com/rgayon-operis/ansible-config)
+- [Fish](https://github.com/rgayon-operis/fish-config) (Might I recommend the [tide](https://github.com/IlanCosman/tide) prompt ?)
+- [NeoVim](https://github.com/rgayon-operis/nvim-config) (Requires [nvchad](https://nvchad.com/))
+- [Tmux](https://github.com/rgayon-operis/tmux-config)
+- And more if I think of any...
+
 # I love Blue Sharks !
 Blahaj is a soft toy shark plushie sold by IKEA (not sponsored, I just really like them). I hope you can find some solace in knowing they exist. I have a couple myself, and I love them very much.
 
