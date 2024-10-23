@@ -24,4 +24,4 @@ Here is a list of my different configurations:
 # I love Blue Sharks !
 Blahaj is a soft toy shark plushie sold by IKEA (not sponsored, I just really like them). I hope you can find some solace in knowing they exist. I have a couple myself, and I love them very much.
 
-![Shark!](https://www.ikea.com/se/sv/images/products/blahaj-mjukleksak-haj__0710175_pe727378_s5.jpg)
+![Shark!](https://github.com/rgayon-operis/rgayon-operis/blob/main/blahaj.png?raw=true)
